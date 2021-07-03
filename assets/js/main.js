@@ -10,8 +10,8 @@ $(document).ready(function() {
 });
 
 // Typed.JS
-var typed = new Typed('.nikhilelement', {
-  strings: ["Full stack developer.", "Data Science Enthusiast.", "Competitive Programmer."],
+var typed = new Typed('.praveenelement', {
+  strings: ["Full stack developer.", "Deep Learing Enthusiast.", "Competitive Programmer."],
   typeSpeed: 60,
   backSpeed: 45,
   loop: true
