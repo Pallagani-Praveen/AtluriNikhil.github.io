@@ -1,2 +1,2 @@
-# AtluriNikhil.github.io
+# Praveen-Pallagani.github.io
 Personal Website
